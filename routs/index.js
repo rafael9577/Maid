@@ -15,8 +15,6 @@ export default () => {
             <stack.Screen name="preload" component={preload} />
             <stack.Screen name="singIn" component={singIn} />
             <stack.Screen name="singUp" component={singUp} />
-            <stack.Screen name="user" component={user} />
-            <stack.Screen name="maid" component={maid} />
         </stack.Navigator>
     )
 
